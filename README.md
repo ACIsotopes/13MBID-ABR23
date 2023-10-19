@@ -9,6 +9,10 @@ Universidad Internacional de Valencia*
 Prof: Dr. Horacio Kuna
 Dictado: ABR23-24
 
+Estudiante: Alejandro Cuenca Bustos
+
+---
+
 ## Descripción del contenido
 
 Carpetas:
